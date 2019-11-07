@@ -1,17 +1,64 @@
-p{
-font-size : 12pt;
-font-family : arial,helvetica;
-font-weight : normal;
-}
-h1 {
-font-size : 36pt;
-font-family : verdana,arial;
-text-decoration : underline;
-text-align : center;
-background-color : Teal;
-}
 body {
-background-color : #006600;
-font-family : arial;
-color : White;
+
+font: 20px;
+
+text-align: center;
+
+background-color: #aa99ff;
+
+
 }
+
+p{
+
+font-size:12ppx;
+
+color:#0000FF;
+
+text-align:left;
+
+}
+
+
+h1{
+
+color:#9911ff;
+
+text-align:left;
+
+text-align: center;
+
+text-decoration: blink;
+
+text-decoration-style: solid;
+
+}
+
+
+.clase1{
+
+font-style:italic;
+
+font-size:20px;
+
+border-bottom:1px #000000 dashed;
+
+text-align:left;
+
+}
+
+
+#estilo1{
+
+color:#FFFFFF;
+
+font-size:15px;
+
+background-color: #000000;
+
+text-align:left;
+
+}
+a {
+  color:#413839;
+  }

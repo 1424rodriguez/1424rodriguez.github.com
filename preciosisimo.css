@@ -1,0 +1,60 @@
+h1{
+	color: blue ;
+	text-align: center;
+	text-decoration: underline;
+	font-family: Arial;
+}
+p {
+font-family: 'Open Sans';
+font-size: 14px;
+color: #AA2A4F;
+line-height: 18px;
+margin-bottom: 20px;
+}
+
+
+svg{
+	align-content:center;
+	margin-left:500px;
+
+
+
+
+}
+td{
+	padding-right: 100px;
+}
+
+
+.rojito{
+	border-color:green;
+	background: red;
+
+}
+.azulito{
+	border-color:blue;
+	background:#FFE5B4
+
+}
+
+
+	
+
+.tabla{
+	background:#B5EEFF;
+	margin-left:100px;
+	border-style:dashed;
+	text-align: center;
+}
+.rosita{
+	border-color:grey;
+	background:pink;
+}
+
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+  background-color: #d8da3d }
+/* Estas son las mejores clases del mundo */

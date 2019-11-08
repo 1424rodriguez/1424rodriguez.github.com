@@ -2,7 +2,7 @@ body {
 
 font: 20px;
 
-text-align: center;
+text-align: ;
 
 background-color: #aa99ff;
 
@@ -59,6 +59,10 @@ background-color: #000000;
 text-align:left;
 
 }
-a {
-  color:#413839;
-  }
+li{
+	color:green;
+
+}
+a{
+  color: grey;
+}

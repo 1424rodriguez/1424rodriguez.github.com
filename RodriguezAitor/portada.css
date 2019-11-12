@@ -1,0 +1,42 @@
+.flotar{
+	float:right;
+}
+p{
+	text-align: center;
+}
+.moverse{
+	margin-left: 600px;
+	font-family: 'Yeon Sung', cursive;
+	font-size: 25px;
+	background-color: #E38AAE;
+	border-style: solid;
+	margin-right: 600px;
+}
+svg{
+	padding-left: 100px;
+}
+.titulo{
+	font-size: 40px;
+	border-style: solid;
+	background-color: #B6B6B4;
+	border-radius:60px;
+
+
+
+}
+
+.seleccionar{
+	margin-left: 400px;
+}
+div{
+	background-color:#254117;
+}
+.centradito{
+	padding-left: 500px;
+}
+.grande{
+	font-size: 100px;
+}
+body{
+	margin:15px;
+}
